@@ -1,6 +1,6 @@
 <?php
    /**
-    * Script del Ejercicio 8
+    * Script del Ejercicio 10
     *
     * @author Daniel Marín López
     * @version 0.01a
