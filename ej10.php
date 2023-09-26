@@ -19,6 +19,6 @@
     EOD;
 
     echo $informacionPersonal;
-    echo "<a href=\"https://github.com/Dansarasix-DML/DWES_practica2\">GitHub</a>";
+    echo "<a href=\"https://github.com/Dansarasix-DML/DWES_practica2/blob/main/ej10.php\">GitHub</a>";
 
 ?>

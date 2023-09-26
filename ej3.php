@@ -7,7 +7,7 @@
 */
 
 //Cragamos datos
-$link = "https://github.com/Dansarasix-DML/DWES_practica2";
+$link = "https://github.com/Dansarasix-DML/DWES_practica2/blob/main/ej3.php";
 $r = 5;
 define("PI", 3.14);
 $area = 2 * PI * $r;

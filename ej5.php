@@ -12,5 +12,5 @@
     $b = 7;
     echo ("Resultado: " . $a + $b);
     echo "<br>";
-    echo "<a href=\"https://github.com/Dansarasix-DML/DWES_practica2\">GitHub</a>";
+    echo "<a href=\"https://github.com/Dansarasix-DML/DWES_practica2/blob/main/ej5.php\">GitHub</a>";
 ?>

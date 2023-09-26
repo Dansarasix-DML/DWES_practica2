@@ -16,5 +16,5 @@
     printf("<b>%s</b> es un módulo de %d curso de <b>%s</b>", $modulo, 2, $ciclo);
     print "</p>";
     print("<br>");
-    printf("<a href=\"https://github.com/Dansarasix-DML/DWES_practica2\">GitHub</a>")
+    printf("<a href=\"https://github.com/Dansarasix-DML/DWES_practica2/blob/main/ej4.php\">GitHub</a>")
 ?>

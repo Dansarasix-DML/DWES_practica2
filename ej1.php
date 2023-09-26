@@ -9,5 +9,5 @@
 //Cragamos datos
 echo "\"Hola Mundo\"";
 echo "<br>";
-echo "<a href=\"https://github.com/Dansarasix-DML/DWES_practica2\">GitHub</a>";
+echo "<a href=\"https://github.com/Dansarasix-DML/DWES_practica2/blob/main/ej1.php\">GitHub</a>";
 ?>

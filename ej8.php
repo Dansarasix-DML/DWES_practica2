@@ -13,5 +13,5 @@
     echo($a  . "<br>");
     echo(var_dump($b) . "<br>");
     echo(var_dump(null) . "<br>");
-    echo "<a href=\"https://github.com/Dansarasix-DML/DWES_practica2\">GitHub</a>";
+    echo "<a href=\"https://github.com/Dansarasix-DML/DWES_practica2/blob/main/ej8.php\">GitHub</a>";
 ?>

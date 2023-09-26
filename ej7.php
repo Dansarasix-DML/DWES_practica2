@@ -21,5 +21,5 @@
     echo("Incrementa: 1, Valor actual: " . $x . "<br>");
     $x--;
     echo("Decrementa: 1, Valor actual: " . $x . "<br>");
-    echo "<a href=\"https://github.com/Dansarasix-DML/DWES_practica2\">GitHub</a>";
+    echo "<a href=\"https://github.com/Dansarasix-DML/DWES_practica2/blob/main/ej7.php\">GitHub</a>";
 ?>

@@ -17,6 +17,6 @@
     echo("Valor es " . gettype($a) . "<br>");
     $a = null;
     echo("Valor es " . gettype($a) . "<br>");
-    echo "<a href=\"https://github.com/Dansarasix-DML/DWES_practica2\">GitHub</a>";
+    echo "<a href=\"https://github.com/Dansarasix-DML/DWES_practica2/blob/main/ej9.php\">GitHub</a>";
 
 ?>

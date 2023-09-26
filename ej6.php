@@ -16,5 +16,5 @@
     echo($y . " * " . $x . " = " . $y * $x . "<br>");
     echo($y . " / " . $x . " = " . $y / $x . "<br>");
     echo($y . " % " . $x . " = " . $y % $x . "<br>");
-    echo "<a href=\"https://github.com/Dansarasix-DML/DWES_practica2\">GitHub</a>";
+    echo "<a href=\"https://github.com/Dansarasix-DML/DWES_practica2/blob/main/ej6.php\">GitHub</a>";
 ?>
